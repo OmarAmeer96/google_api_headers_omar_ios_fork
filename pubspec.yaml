@@ -28,7 +28,7 @@ flutter:
       # ios:
       #   default_package: google_api_headers
       ios:
-        pluginClass: GoogleApiHeadersPlugin
+        dartPluginClass: GoogleApiHeaders
       web:
         default_package: google_api_headers
       macos:
